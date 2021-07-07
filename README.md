@@ -8,7 +8,7 @@ Justified the choice of this algorithm over the genetic algorithm. Conducted an 
 - generates a random solution (some kind of work schedule) and then applies the optimization algorithm that will filter out inappropriate solutions 
 
 ###### SA_random
-- another version of random solution
+- older version of random solution
 
 ###### SA_linear
 - a linear algorithm is applied first, which builds a certain valid solution, which is then fed to the input to the Simulated Annealing algorithm
